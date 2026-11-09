@@ -1,0 +1,6 @@
+{
+  "name": "PaperArchitect: CS Research & Architecture Agent",
+  "description": "Advanced CS research agent parsing academic papers, extracting system architectures into Mermaid.js flowcharts, and generating resume-grade student internship project ideas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
